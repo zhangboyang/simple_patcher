@@ -38,7 +38,7 @@ simple patcher
         从标准输入读取脚本并运行
 
     run_script [脚本文件]
-        运行制定的脚本文件
+        运行指定的脚本文件
 
 编译方法：
     本程序使用了 stricmp 以及 cryptdll.dll 中的 MD5 函数，因此只能在 Windows 系统上运行
